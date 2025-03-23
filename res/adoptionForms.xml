@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AdoptionForms>
+    <AdoptionForm username="user">
+            
+        <Username>user</Username>
+            
+        <PetID>5423</PetID>
+            
+        <Status>Pending</Status>
+            
+        <LivingSituation>Living on a jet plane.</LivingSituation>
+            
+        <ExperienceWithPets>I love venomous animals.</ExperienceWithPets>
+            
+        <ReasonForAdoption>Pulutan ni papa sa inuman.</ReasonForAdoption>
+        
+    </AdoptionForm>
+</AdoptionForms>

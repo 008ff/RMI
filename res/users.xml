@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Users>
+    <User password="user" role="User" username="user"/>
+    <User password="admin" role="Admin" username="admin"/>
+    <User password="wew" role="User" username="wew"/>
+    <User password="ree" role="Admin" username="ree"/>
+    <User password="a" role="Admin" username="a"/>
+    <User password="1" role="User" username="1"/>
+</Users>
